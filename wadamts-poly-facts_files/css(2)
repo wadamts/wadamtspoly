@@ -1,0 +1,29 @@
+/* latin */
+@font-face {
+  font-family: 'Six Caps';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Six Caps'), local('SixCaps'), url(https://web.archive.org/web/20161125133445im_/http://fonts.gstatic.com/s/sixcaps/v7/kHNZYYf63qmp8C-aw9f9pvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+/*
+     FILE ARCHIVED ON 13:34:45 Nov 25, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:06:03 Jun 08, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 74.57
+  exclusion.robots: 0.135
+  exclusion.robots.policy: 0.118
+  RedisCDXSource: 3.129
+  esindex: 0.013
+  LoadShardBlock: 52.56 (3)
+  PetaboxLoader3.datanode: 105.186 (4)
+  load_resource: 103.528
+  PetaboxLoader3.resolve: 47.338
+*/

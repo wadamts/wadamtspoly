@@ -1,0 +1,61 @@
+﻿/* -----------------------------------------
+   Item: Social Sprites
+   Author: I Am Fireworks
+   Description: Social Sprites
+----------------------------------------- */
+
+/* Browser Reset
+================================================== */
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{padding:0;border:0;border-collapse:separate;border-spacing:0;font-weight:inherit;font-style:inherit;font-size:100%;text-decoration:none}
+html{height:100%;width:100%;margin:0}
+body{color:#676767;background:#eee;font:12px/17px Helvetica,Arial,sans-serif}
+a{color:#ff7f00;text-decoration:none}
+a:hover,a:active{text-decoration:none;color:#666}
+a img{border:0}
+h2{color:#fff;letter-spacing:0;text-shadow:1px 1px 2px rgba(0,0,0,.5);width:auto;text-align:;-webkit-transition:all .3s linear;-moz-transition:all .3s linear;-o-transition:all .3s linear;-ms-transition:all .3s linear;transition:all .3s linear;font:400 100px/110% "Great Vibes",Helvetica,sans-serif}
+h3{display:block;font:bold 14px 'Raleway','Open Sans',sans-serif;color:#666;text-align:;text-transform:uppercase;margin-bottom: 20px;}
+header{ display: block; background:url(/web/20161016020418im_/http://wadamtspoly.com.ng/images/background.png) center top #f1f1f1; padding: 100px 15px; }
+ul.ss,ul.ssm{text-align:center}
+
+section { display: block; padding: 50px 15px; }
+section.bg_white { background-color: #fff; }
+section.bg_orange { background-color: #ddd; }
+section div { display: block; width: 980px !important; max-width: 100%; margin: 0 auto; }
+.text-center { text-align: center; }
+.button {        
+   padding: 15px 30px;
+   text-align: center;
+   border-radius: 50px;
+   text-decoration: none;
+   background: #29ABE2;
+   color: #fff;
+   text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+.button:hover {
+  background: #0071BC;
+    color: #fff;
+}
+/*
+     FILE ARCHIVED ON 02:04:18 Oct 16, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:06:55 Jun 08, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 143.889
+  exclusion.robots: 0.065
+  exclusion.robots.policy: 0.056
+  cdx.remote: 0.055
+  esindex: 0.009
+  LoadShardBlock: 93.518 (3)
+  PetaboxLoader3.datanode: 78.567 (4)
+  load_resource: 87.207
+  PetaboxLoader3.resolve: 72.958
+*/
